@@ -3,6 +3,8 @@
 This project is an inventory and billing management system built using Laravel. It includes features for managing
 products, accounts, invoices, payments, and various settings including online payments and SMS notifications.
 
+<img src="README.webp" style="border-radius: 10px">
+
 ## Table of Contents
 
 - [Features](#features)
