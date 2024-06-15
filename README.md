@@ -1,7 +1,7 @@
+
 # Inventory and Billing Management System
 
-This project is an inventory and billing management system built using Laravel. It includes features for managing
-products, accounts, invoices, payments, and various settings including online payments and SMS notifications.
+This project is an inventory and billing management system built using Laravel. It includes features for managing products, accounts, invoices, payments, and various settings including online payments and SMS notifications.
 
 ## Table of Contents
 
@@ -129,8 +129,7 @@ The database structure includes the following tables:
 
 ## Seeder Data
 
-The seeder files are located in the \`database/seeds\` directory. You can use them to populate the database with initial
-data.
+The seeder files are located in the \`database/seeds\` directory. You can use them to populate the database with initial data.
 
 To run the seeders:
 
@@ -173,4 +172,3 @@ class EnumYesNo extends EnumBase {
 ## License
 
 This project is open-source and licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-# xsh-cari
