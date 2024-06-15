@@ -1,0 +1,1148 @@
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Account#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .AccountBalance#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .AccountContact#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .AccountGroup#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .AccountMovement#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .AccountType#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .BankAccount#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .BankMovement#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .CashMovement#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .CashType#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .CreditCardInfo#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Expense#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Income#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .IncomeExpenseCategory#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .IncomeExpenseType#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Invoice#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .InvoiceDetail#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .InvoicePaymentMethod#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .InvoiceSeries#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .InvoiceStatus#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .InvoiceType#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Migration#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .OnlinePaymentTransaction#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Payment#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .PaymentMethod#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .PaymentProvider#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .PaymentStatus#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Permission#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Product#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .ProductBrand#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .ProductCategory#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .ProductFeature#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .RefundTransaction#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Role#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .Settings#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .StockCount#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .StockMovement#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .StockWarehouse#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .User#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .UserActivityLog#{$element} {
+    font-family: inherit;
+  }
+}
+
+$elements: (
+        GetBtn,
+        GetAllBtn,
+        CreateBtn,
+        UpdateBtn,
+        DeleteBtn,
+        GetFrm,
+        GetAllFrm,
+        CreateFrm,
+        UpdateFrm,
+        DeleteFrm,
+        GetMdl,
+        GetAllMdl,
+        CreateMdl,
+        UpdateMdl,
+        DeleteMdl,
+        GetMdlBtn,
+        GetAllMdlBtn,
+        CreateMdlBtn,
+        UpdateMdlBtn,
+        DeleteMdlBtn);
+
+@each $element in $elements {
+  .UserRole#{$element} {
+    font-family: inherit;
+  }
+}
+

@@ -1,0 +1,3281 @@
+.AccountGetBtn {
+  font-family: inherit;
+}
+
+.AccountGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountCreateBtn {
+  font-family: inherit;
+}
+
+.AccountUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountGetFrm {
+  font-family: inherit;
+}
+
+.AccountGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountCreateFrm {
+  font-family: inherit;
+}
+
+.AccountUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountGetMdl {
+  font-family: inherit;
+}
+
+.AccountGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountCreateMdl {
+  font-family: inherit;
+}
+
+.AccountUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceGetBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceCreateBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceGetFrm {
+  font-family: inherit;
+}
+
+.AccountBalanceGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountBalanceCreateFrm {
+  font-family: inherit;
+}
+
+.AccountBalanceUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountBalanceDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountBalanceGetMdl {
+  font-family: inherit;
+}
+
+.AccountBalanceGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountBalanceCreateMdl {
+  font-family: inherit;
+}
+
+.AccountBalanceUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountBalanceDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountBalanceGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountBalanceDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.AccountContactGetBtn {
+  font-family: inherit;
+}
+
+.AccountContactGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountContactCreateBtn {
+  font-family: inherit;
+}
+
+.AccountContactUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountContactDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountContactGetFrm {
+  font-family: inherit;
+}
+
+.AccountContactGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountContactCreateFrm {
+  font-family: inherit;
+}
+
+.AccountContactUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountContactDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountContactGetMdl {
+  font-family: inherit;
+}
+
+.AccountContactGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountContactCreateMdl {
+  font-family: inherit;
+}
+
+.AccountContactUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountContactDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountContactGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountContactGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountContactCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountContactUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountContactDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGroupGetBtn {
+  font-family: inherit;
+}
+
+.AccountGroupGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountGroupCreateBtn {
+  font-family: inherit;
+}
+
+.AccountGroupUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountGroupDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountGroupGetFrm {
+  font-family: inherit;
+}
+
+.AccountGroupGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountGroupCreateFrm {
+  font-family: inherit;
+}
+
+.AccountGroupUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountGroupDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountGroupGetMdl {
+  font-family: inherit;
+}
+
+.AccountGroupGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountGroupCreateMdl {
+  font-family: inherit;
+}
+
+.AccountGroupUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountGroupDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountGroupGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGroupGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGroupCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGroupUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountGroupDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.AccountMovementGetBtn {
+  font-family: inherit;
+}
+
+.AccountMovementGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountMovementCreateBtn {
+  font-family: inherit;
+}
+
+.AccountMovementUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountMovementDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountMovementGetFrm {
+  font-family: inherit;
+}
+
+.AccountMovementGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountMovementCreateFrm {
+  font-family: inherit;
+}
+
+.AccountMovementUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountMovementDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountMovementGetMdl {
+  font-family: inherit;
+}
+
+.AccountMovementGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountMovementCreateMdl {
+  font-family: inherit;
+}
+
+.AccountMovementUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountMovementDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountMovementGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountMovementGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountMovementCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountMovementUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountMovementDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.AccountTypeGetBtn {
+  font-family: inherit;
+}
+
+.AccountTypeGetAllBtn {
+  font-family: inherit;
+}
+
+.AccountTypeCreateBtn {
+  font-family: inherit;
+}
+
+.AccountTypeUpdateBtn {
+  font-family: inherit;
+}
+
+.AccountTypeDeleteBtn {
+  font-family: inherit;
+}
+
+.AccountTypeGetFrm {
+  font-family: inherit;
+}
+
+.AccountTypeGetAllFrm {
+  font-family: inherit;
+}
+
+.AccountTypeCreateFrm {
+  font-family: inherit;
+}
+
+.AccountTypeUpdateFrm {
+  font-family: inherit;
+}
+
+.AccountTypeDeleteFrm {
+  font-family: inherit;
+}
+
+.AccountTypeGetMdl {
+  font-family: inherit;
+}
+
+.AccountTypeGetAllMdl {
+  font-family: inherit;
+}
+
+.AccountTypeCreateMdl {
+  font-family: inherit;
+}
+
+.AccountTypeUpdateMdl {
+  font-family: inherit;
+}
+
+.AccountTypeDeleteMdl {
+  font-family: inherit;
+}
+
+.AccountTypeGetMdlBtn {
+  font-family: inherit;
+}
+
+.AccountTypeGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.AccountTypeCreateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountTypeUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.AccountTypeDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.BankAccountGetBtn {
+  font-family: inherit;
+}
+
+.BankAccountGetAllBtn {
+  font-family: inherit;
+}
+
+.BankAccountCreateBtn {
+  font-family: inherit;
+}
+
+.BankAccountUpdateBtn {
+  font-family: inherit;
+}
+
+.BankAccountDeleteBtn {
+  font-family: inherit;
+}
+
+.BankAccountGetFrm {
+  font-family: inherit;
+}
+
+.BankAccountGetAllFrm {
+  font-family: inherit;
+}
+
+.BankAccountCreateFrm {
+  font-family: inherit;
+}
+
+.BankAccountUpdateFrm {
+  font-family: inherit;
+}
+
+.BankAccountDeleteFrm {
+  font-family: inherit;
+}
+
+.BankAccountGetMdl {
+  font-family: inherit;
+}
+
+.BankAccountGetAllMdl {
+  font-family: inherit;
+}
+
+.BankAccountCreateMdl {
+  font-family: inherit;
+}
+
+.BankAccountUpdateMdl {
+  font-family: inherit;
+}
+
+.BankAccountDeleteMdl {
+  font-family: inherit;
+}
+
+.BankAccountGetMdlBtn {
+  font-family: inherit;
+}
+
+.BankAccountGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.BankAccountCreateMdlBtn {
+  font-family: inherit;
+}
+
+.BankAccountUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.BankAccountDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.BankMovementGetBtn {
+  font-family: inherit;
+}
+
+.BankMovementGetAllBtn {
+  font-family: inherit;
+}
+
+.BankMovementCreateBtn {
+  font-family: inherit;
+}
+
+.BankMovementUpdateBtn {
+  font-family: inherit;
+}
+
+.BankMovementDeleteBtn {
+  font-family: inherit;
+}
+
+.BankMovementGetFrm {
+  font-family: inherit;
+}
+
+.BankMovementGetAllFrm {
+  font-family: inherit;
+}
+
+.BankMovementCreateFrm {
+  font-family: inherit;
+}
+
+.BankMovementUpdateFrm {
+  font-family: inherit;
+}
+
+.BankMovementDeleteFrm {
+  font-family: inherit;
+}
+
+.BankMovementGetMdl {
+  font-family: inherit;
+}
+
+.BankMovementGetAllMdl {
+  font-family: inherit;
+}
+
+.BankMovementCreateMdl {
+  font-family: inherit;
+}
+
+.BankMovementUpdateMdl {
+  font-family: inherit;
+}
+
+.BankMovementDeleteMdl {
+  font-family: inherit;
+}
+
+.BankMovementGetMdlBtn {
+  font-family: inherit;
+}
+
+.BankMovementGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.BankMovementCreateMdlBtn {
+  font-family: inherit;
+}
+
+.BankMovementUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.BankMovementDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.CashMovementGetBtn {
+  font-family: inherit;
+}
+
+.CashMovementGetAllBtn {
+  font-family: inherit;
+}
+
+.CashMovementCreateBtn {
+  font-family: inherit;
+}
+
+.CashMovementUpdateBtn {
+  font-family: inherit;
+}
+
+.CashMovementDeleteBtn {
+  font-family: inherit;
+}
+
+.CashMovementGetFrm {
+  font-family: inherit;
+}
+
+.CashMovementGetAllFrm {
+  font-family: inherit;
+}
+
+.CashMovementCreateFrm {
+  font-family: inherit;
+}
+
+.CashMovementUpdateFrm {
+  font-family: inherit;
+}
+
+.CashMovementDeleteFrm {
+  font-family: inherit;
+}
+
+.CashMovementGetMdl {
+  font-family: inherit;
+}
+
+.CashMovementGetAllMdl {
+  font-family: inherit;
+}
+
+.CashMovementCreateMdl {
+  font-family: inherit;
+}
+
+.CashMovementUpdateMdl {
+  font-family: inherit;
+}
+
+.CashMovementDeleteMdl {
+  font-family: inherit;
+}
+
+.CashMovementGetMdlBtn {
+  font-family: inherit;
+}
+
+.CashMovementGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.CashMovementCreateMdlBtn {
+  font-family: inherit;
+}
+
+.CashMovementUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.CashMovementDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.CashTypeGetBtn {
+  font-family: inherit;
+}
+
+.CashTypeGetAllBtn {
+  font-family: inherit;
+}
+
+.CashTypeCreateBtn {
+  font-family: inherit;
+}
+
+.CashTypeUpdateBtn {
+  font-family: inherit;
+}
+
+.CashTypeDeleteBtn {
+  font-family: inherit;
+}
+
+.CashTypeGetFrm {
+  font-family: inherit;
+}
+
+.CashTypeGetAllFrm {
+  font-family: inherit;
+}
+
+.CashTypeCreateFrm {
+  font-family: inherit;
+}
+
+.CashTypeUpdateFrm {
+  font-family: inherit;
+}
+
+.CashTypeDeleteFrm {
+  font-family: inherit;
+}
+
+.CashTypeGetMdl {
+  font-family: inherit;
+}
+
+.CashTypeGetAllMdl {
+  font-family: inherit;
+}
+
+.CashTypeCreateMdl {
+  font-family: inherit;
+}
+
+.CashTypeUpdateMdl {
+  font-family: inherit;
+}
+
+.CashTypeDeleteMdl {
+  font-family: inherit;
+}
+
+.CashTypeGetMdlBtn {
+  font-family: inherit;
+}
+
+.CashTypeGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.CashTypeCreateMdlBtn {
+  font-family: inherit;
+}
+
+.CashTypeUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.CashTypeDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetAllBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoCreateBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoUpdateBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoDeleteBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetFrm {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetAllFrm {
+  font-family: inherit;
+}
+
+.CreditCardInfoCreateFrm {
+  font-family: inherit;
+}
+
+.CreditCardInfoUpdateFrm {
+  font-family: inherit;
+}
+
+.CreditCardInfoDeleteFrm {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetMdl {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetAllMdl {
+  font-family: inherit;
+}
+
+.CreditCardInfoCreateMdl {
+  font-family: inherit;
+}
+
+.CreditCardInfoUpdateMdl {
+  font-family: inherit;
+}
+
+.CreditCardInfoDeleteMdl {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetMdlBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoCreateMdlBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.CreditCardInfoDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.ExpenseGetBtn {
+  font-family: inherit;
+}
+
+.ExpenseGetAllBtn {
+  font-family: inherit;
+}
+
+.ExpenseCreateBtn {
+  font-family: inherit;
+}
+
+.ExpenseUpdateBtn {
+  font-family: inherit;
+}
+
+.ExpenseDeleteBtn {
+  font-family: inherit;
+}
+
+.ExpenseGetFrm {
+  font-family: inherit;
+}
+
+.ExpenseGetAllFrm {
+  font-family: inherit;
+}
+
+.ExpenseCreateFrm {
+  font-family: inherit;
+}
+
+.ExpenseUpdateFrm {
+  font-family: inherit;
+}
+
+.ExpenseDeleteFrm {
+  font-family: inherit;
+}
+
+.ExpenseGetMdl {
+  font-family: inherit;
+}
+
+.ExpenseGetAllMdl {
+  font-family: inherit;
+}
+
+.ExpenseCreateMdl {
+  font-family: inherit;
+}
+
+.ExpenseUpdateMdl {
+  font-family: inherit;
+}
+
+.ExpenseDeleteMdl {
+  font-family: inherit;
+}
+
+.ExpenseGetMdlBtn {
+  font-family: inherit;
+}
+
+.ExpenseGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.ExpenseCreateMdlBtn {
+  font-family: inherit;
+}
+
+.ExpenseUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.ExpenseDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeGetBtn {
+  font-family: inherit;
+}
+
+.IncomeGetAllBtn {
+  font-family: inherit;
+}
+
+.IncomeCreateBtn {
+  font-family: inherit;
+}
+
+.IncomeUpdateBtn {
+  font-family: inherit;
+}
+
+.IncomeDeleteBtn {
+  font-family: inherit;
+}
+
+.IncomeGetFrm {
+  font-family: inherit;
+}
+
+.IncomeGetAllFrm {
+  font-family: inherit;
+}
+
+.IncomeCreateFrm {
+  font-family: inherit;
+}
+
+.IncomeUpdateFrm {
+  font-family: inherit;
+}
+
+.IncomeDeleteFrm {
+  font-family: inherit;
+}
+
+.IncomeGetMdl {
+  font-family: inherit;
+}
+
+.IncomeGetAllMdl {
+  font-family: inherit;
+}
+
+.IncomeCreateMdl {
+  font-family: inherit;
+}
+
+.IncomeUpdateMdl {
+  font-family: inherit;
+}
+
+.IncomeDeleteMdl {
+  font-family: inherit;
+}
+
+.IncomeGetMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeCreateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetAllBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryCreateBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryUpdateBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryDeleteBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetAllFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryCreateFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryUpdateFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryDeleteFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetAllMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryCreateMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryUpdateMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryDeleteMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryCreateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseCategoryDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetAllBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeCreateBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeUpdateBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeDeleteBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetAllFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeCreateFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeUpdateFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeDeleteFrm {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetAllMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeCreateMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeUpdateMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeDeleteMdl {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeCreateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.IncomeExpenseTypeDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceGetBtn {
+  font-family: inherit;
+}
+
+.InvoiceGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoiceCreateBtn {
+  font-family: inherit;
+}
+
+.InvoiceUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoiceDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoiceGetFrm {
+  font-family: inherit;
+}
+
+.InvoiceGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoiceCreateFrm {
+  font-family: inherit;
+}
+
+.InvoiceUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoiceDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoiceGetMdl {
+  font-family: inherit;
+}
+
+.InvoiceGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoiceCreateMdl {
+  font-family: inherit;
+}
+
+.InvoiceUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoiceDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoiceGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailCreateBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetFrm {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoiceDetailCreateFrm {
+  font-family: inherit;
+}
+
+.InvoiceDetailUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoiceDetailDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetMdl {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoiceDetailCreateMdl {
+  font-family: inherit;
+}
+
+.InvoiceDetailUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoiceDetailDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceDetailDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodCreateBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetFrm {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodCreateFrm {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetMdl {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodCreateMdl {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoicePaymentMethodDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesCreateBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetFrm {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoiceSeriesCreateFrm {
+  font-family: inherit;
+}
+
+.InvoiceSeriesUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoiceSeriesDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetMdl {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoiceSeriesCreateMdl {
+  font-family: inherit;
+}
+
+.InvoiceSeriesUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoiceSeriesDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceSeriesDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusCreateBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetFrm {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoiceStatusCreateFrm {
+  font-family: inherit;
+}
+
+.InvoiceStatusUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoiceStatusDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetMdl {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoiceStatusCreateMdl {
+  font-family: inherit;
+}
+
+.InvoiceStatusUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoiceStatusDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceStatusDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetAllBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeCreateBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeUpdateBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeDeleteBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetFrm {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetAllFrm {
+  font-family: inherit;
+}
+
+.InvoiceTypeCreateFrm {
+  font-family: inherit;
+}
+
+.InvoiceTypeUpdateFrm {
+  font-family: inherit;
+}
+
+.InvoiceTypeDeleteFrm {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetMdl {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetAllMdl {
+  font-family: inherit;
+}
+
+.InvoiceTypeCreateMdl {
+  font-family: inherit;
+}
+
+.InvoiceTypeUpdateMdl {
+  font-family: inherit;
+}
+
+.InvoiceTypeDeleteMdl {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeCreateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.InvoiceTypeDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.MigrationGetBtn {
+  font-family: inherit;
+}
+
+.MigrationGetAllBtn {
+  font-family: inherit;
+}
+
+.MigrationCreateBtn {
+  font-family: inherit;
+}
+
+.MigrationUpdateBtn {
+  font-family: inherit;
+}
+
+.MigrationDeleteBtn {
+  font-family: inherit;
+}
+
+.MigrationGetFrm {
+  font-family: inherit;
+}
+
+.MigrationGetAllFrm {
+  font-family: inherit;
+}
+
+.MigrationCreateFrm {
+  font-family: inherit;
+}
+
+.MigrationUpdateFrm {
+  font-family: inherit;
+}
+
+.MigrationDeleteFrm {
+  font-family: inherit;
+}
+
+.MigrationGetMdl {
+  font-family: inherit;
+}
+
+.MigrationGetAllMdl {
+  font-family: inherit;
+}
+
+.MigrationCreateMdl {
+  font-family: inherit;
+}
+
+.MigrationUpdateMdl {
+  font-family: inherit;
+}
+
+.MigrationDeleteMdl {
+  font-family: inherit;
+}
+
+.MigrationGetMdlBtn {
+  font-family: inherit;
+}
+
+.MigrationGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.MigrationCreateMdlBtn {
+  font-family: inherit;
+}
+
+.MigrationUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.MigrationDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetAllBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionCreateBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionUpdateBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionDeleteBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetFrm {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetAllFrm {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionCreateFrm {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionUpdateFrm {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionDeleteFrm {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetMdl {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetAllMdl {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionCreateMdl {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionUpdateMdl {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionDeleteMdl {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetMdlBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionCreateMdlBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.OnlinePaymentTransactionDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentGetBtn {
+  font-family: inherit;
+}
+
+.PaymentGetAllBtn {
+  font-family: inherit;
+}
+
+.PaymentCreateBtn {
+  font-family: inherit;
+}
+
+.PaymentUpdateBtn {
+  font-family: inherit;
+}
+
+.PaymentDeleteBtn {
+  font-family: inherit;
+}
+
+.PaymentGetFrm {
+  font-family: inherit;
+}
+
+.PaymentGetAllFrm {
+  font-family: inherit;
+}
+
+.PaymentCreateFrm {
+  font-family: inherit;
+}
+
+.PaymentUpdateFrm {
+  font-family: inherit;
+}
+
+.PaymentDeleteFrm {
+  font-family: inherit;
+}
+
+.PaymentGetMdl {
+  font-family: inherit;
+}
+
+.PaymentGetAllMdl {
+  font-family: inherit;
+}
+
+.PaymentCreateMdl {
+  font-family: inherit;
+}
+
+.PaymentUpdateMdl {
+  font-family: inherit;
+}
+
+.PaymentDeleteMdl {
+  font-family: inherit;
+}
+
+.PaymentGetMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentCreateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodGetBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodGetAllBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodCreateBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodUpdateBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodDeleteBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodGetFrm {
+  font-family: inherit;
+}
+
+.PaymentMethodGetAllFrm {
+  font-family: inherit;
+}
+
+.PaymentMethodCreateFrm {
+  font-family: inherit;
+}
+
+.PaymentMethodUpdateFrm {
+  font-family: inherit;
+}
+
+.PaymentMethodDeleteFrm {
+  font-family: inherit;
+}
+
+.PaymentMethodGetMdl {
+  font-family: inherit;
+}
+
+.PaymentMethodGetAllMdl {
+  font-family: inherit;
+}
+
+.PaymentMethodCreateMdl {
+  font-family: inherit;
+}
+
+.PaymentMethodUpdateMdl {
+  font-family: inherit;
+}
+
+.PaymentMethodDeleteMdl {
+  font-family: inherit;
+}
+
+.PaymentMethodGetMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodCreateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentMethodDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderGetBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderGetAllBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderCreateBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderUpdateBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderDeleteBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderGetFrm {
+  font-family: inherit;
+}
+
+.PaymentProviderGetAllFrm {
+  font-family: inherit;
+}
+
+.PaymentProviderCreateFrm {
+  font-family: inherit;
+}
+
+.PaymentProviderUpdateFrm {
+  font-family: inherit;
+}
+
+.PaymentProviderDeleteFrm {
+  font-family: inherit;
+}
+
+.PaymentProviderGetMdl {
+  font-family: inherit;
+}
+
+.PaymentProviderGetAllMdl {
+  font-family: inherit;
+}
+
+.PaymentProviderCreateMdl {
+  font-family: inherit;
+}
+
+.PaymentProviderUpdateMdl {
+  font-family: inherit;
+}
+
+.PaymentProviderDeleteMdl {
+  font-family: inherit;
+}
+
+.PaymentProviderGetMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderCreateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentProviderDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusGetBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusGetAllBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusCreateBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusUpdateBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusDeleteBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusGetFrm {
+  font-family: inherit;
+}
+
+.PaymentStatusGetAllFrm {
+  font-family: inherit;
+}
+
+.PaymentStatusCreateFrm {
+  font-family: inherit;
+}
+
+.PaymentStatusUpdateFrm {
+  font-family: inherit;
+}
+
+.PaymentStatusDeleteFrm {
+  font-family: inherit;
+}
+
+.PaymentStatusGetMdl {
+  font-family: inherit;
+}
+
+.PaymentStatusGetAllMdl {
+  font-family: inherit;
+}
+
+.PaymentStatusCreateMdl {
+  font-family: inherit;
+}
+
+.PaymentStatusUpdateMdl {
+  font-family: inherit;
+}
+
+.PaymentStatusDeleteMdl {
+  font-family: inherit;
+}
+
+.PaymentStatusGetMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusCreateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.PaymentStatusDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.PermissionGetBtn {
+  font-family: inherit;
+}
+
+.PermissionGetAllBtn {
+  font-family: inherit;
+}
+
+.PermissionCreateBtn {
+  font-family: inherit;
+}
+
+.PermissionUpdateBtn {
+  font-family: inherit;
+}
+
+.PermissionDeleteBtn {
+  font-family: inherit;
+}
+
+.PermissionGetFrm {
+  font-family: inherit;
+}
+
+.PermissionGetAllFrm {
+  font-family: inherit;
+}
+
+.PermissionCreateFrm {
+  font-family: inherit;
+}
+
+.PermissionUpdateFrm {
+  font-family: inherit;
+}
+
+.PermissionDeleteFrm {
+  font-family: inherit;
+}
+
+.PermissionGetMdl {
+  font-family: inherit;
+}
+
+.PermissionGetAllMdl {
+  font-family: inherit;
+}
+
+.PermissionCreateMdl {
+  font-family: inherit;
+}
+
+.PermissionUpdateMdl {
+  font-family: inherit;
+}
+
+.PermissionDeleteMdl {
+  font-family: inherit;
+}
+
+.PermissionGetMdlBtn {
+  font-family: inherit;
+}
+
+.PermissionGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.PermissionCreateMdlBtn {
+  font-family: inherit;
+}
+
+.PermissionUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.PermissionDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.ProductGetBtn {
+  font-family: inherit;
+}
+
+.ProductGetAllBtn {
+  font-family: inherit;
+}
+
+.ProductCreateBtn {
+  font-family: inherit;
+}
+
+.ProductUpdateBtn {
+  font-family: inherit;
+}
+
+.ProductDeleteBtn {
+  font-family: inherit;
+}
+
+.ProductGetFrm {
+  font-family: inherit;
+}
+
+.ProductGetAllFrm {
+  font-family: inherit;
+}
+
+.ProductCreateFrm {
+  font-family: inherit;
+}
+
+.ProductUpdateFrm {
+  font-family: inherit;
+}
+
+.ProductDeleteFrm {
+  font-family: inherit;
+}
+
+.ProductGetMdl {
+  font-family: inherit;
+}
+
+.ProductGetAllMdl {
+  font-family: inherit;
+}
+
+.ProductCreateMdl {
+  font-family: inherit;
+}
+
+.ProductUpdateMdl {
+  font-family: inherit;
+}
+
+.ProductDeleteMdl {
+  font-family: inherit;
+}
+
+.ProductGetMdlBtn {
+  font-family: inherit;
+}
+
+.ProductGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCreateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.ProductBrandGetBtn {
+  font-family: inherit;
+}
+
+.ProductBrandGetAllBtn {
+  font-family: inherit;
+}
+
+.ProductBrandCreateBtn {
+  font-family: inherit;
+}
+
+.ProductBrandUpdateBtn {
+  font-family: inherit;
+}
+
+.ProductBrandDeleteBtn {
+  font-family: inherit;
+}
+
+.ProductBrandGetFrm {
+  font-family: inherit;
+}
+
+.ProductBrandGetAllFrm {
+  font-family: inherit;
+}
+
+.ProductBrandCreateFrm {
+  font-family: inherit;
+}
+
+.ProductBrandUpdateFrm {
+  font-family: inherit;
+}
+
+.ProductBrandDeleteFrm {
+  font-family: inherit;
+}
+
+.ProductBrandGetMdl {
+  font-family: inherit;
+}
+
+.ProductBrandGetAllMdl {
+  font-family: inherit;
+}
+
+.ProductBrandCreateMdl {
+  font-family: inherit;
+}
+
+.ProductBrandUpdateMdl {
+  font-family: inherit;
+}
+
+.ProductBrandDeleteMdl {
+  font-family: inherit;
+}
+
+.ProductBrandGetMdlBtn {
+  font-family: inherit;
+}
+
+.ProductBrandGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.ProductBrandCreateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductBrandUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductBrandDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryGetBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryGetAllBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryCreateBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryUpdateBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryDeleteBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryGetFrm {
+  font-family: inherit;
+}
+
+.ProductCategoryGetAllFrm {
+  font-family: inherit;
+}
+
+.ProductCategoryCreateFrm {
+  font-family: inherit;
+}
+
+.ProductCategoryUpdateFrm {
+  font-family: inherit;
+}
+
+.ProductCategoryDeleteFrm {
+  font-family: inherit;
+}
+
+.ProductCategoryGetMdl {
+  font-family: inherit;
+}
+
+.ProductCategoryGetAllMdl {
+  font-family: inherit;
+}
+
+.ProductCategoryCreateMdl {
+  font-family: inherit;
+}
+
+.ProductCategoryUpdateMdl {
+  font-family: inherit;
+}
+
+.ProductCategoryDeleteMdl {
+  font-family: inherit;
+}
+
+.ProductCategoryGetMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryCreateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductCategoryDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureGetBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureGetAllBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureCreateBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureUpdateBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureDeleteBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureGetFrm {
+  font-family: inherit;
+}
+
+.ProductFeatureGetAllFrm {
+  font-family: inherit;
+}
+
+.ProductFeatureCreateFrm {
+  font-family: inherit;
+}
+
+.ProductFeatureUpdateFrm {
+  font-family: inherit;
+}
+
+.ProductFeatureDeleteFrm {
+  font-family: inherit;
+}
+
+.ProductFeatureGetMdl {
+  font-family: inherit;
+}
+
+.ProductFeatureGetAllMdl {
+  font-family: inherit;
+}
+
+.ProductFeatureCreateMdl {
+  font-family: inherit;
+}
+
+.ProductFeatureUpdateMdl {
+  font-family: inherit;
+}
+
+.ProductFeatureDeleteMdl {
+  font-family: inherit;
+}
+
+.ProductFeatureGetMdlBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureCreateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.ProductFeatureDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionGetBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionGetAllBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionCreateBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionUpdateBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionDeleteBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionGetFrm {
+  font-family: inherit;
+}
+
+.RefundTransactionGetAllFrm {
+  font-family: inherit;
+}
+
+.RefundTransactionCreateFrm {
+  font-family: inherit;
+}
+
+.RefundTransactionUpdateFrm {
+  font-family: inherit;
+}
+
+.RefundTransactionDeleteFrm {
+  font-family: inherit;
+}
+
+.RefundTransactionGetMdl {
+  font-family: inherit;
+}
+
+.RefundTransactionGetAllMdl {
+  font-family: inherit;
+}
+
+.RefundTransactionCreateMdl {
+  font-family: inherit;
+}
+
+.RefundTransactionUpdateMdl {
+  font-family: inherit;
+}
+
+.RefundTransactionDeleteMdl {
+  font-family: inherit;
+}
+
+.RefundTransactionGetMdlBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionCreateMdlBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.RefundTransactionDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.RoleGetBtn {
+  font-family: inherit;
+}
+
+.RoleGetAllBtn {
+  font-family: inherit;
+}
+
+.RoleCreateBtn {
+  font-family: inherit;
+}
+
+.RoleUpdateBtn {
+  font-family: inherit;
+}
+
+.RoleDeleteBtn {
+  font-family: inherit;
+}
+
+.RoleGetFrm {
+  font-family: inherit;
+}
+
+.RoleGetAllFrm {
+  font-family: inherit;
+}
+
+.RoleCreateFrm {
+  font-family: inherit;
+}
+
+.RoleUpdateFrm {
+  font-family: inherit;
+}
+
+.RoleDeleteFrm {
+  font-family: inherit;
+}
+
+.RoleGetMdl {
+  font-family: inherit;
+}
+
+.RoleGetAllMdl {
+  font-family: inherit;
+}
+
+.RoleCreateMdl {
+  font-family: inherit;
+}
+
+.RoleUpdateMdl {
+  font-family: inherit;
+}
+
+.RoleDeleteMdl {
+  font-family: inherit;
+}
+
+.RoleGetMdlBtn {
+  font-family: inherit;
+}
+
+.RoleGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.RoleCreateMdlBtn {
+  font-family: inherit;
+}
+
+.RoleUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.RoleDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.SettingsGetBtn {
+  font-family: inherit;
+}
+
+.SettingsGetAllBtn {
+  font-family: inherit;
+}
+
+.SettingsCreateBtn {
+  font-family: inherit;
+}
+
+.SettingsUpdateBtn {
+  font-family: inherit;
+}
+
+.SettingsDeleteBtn {
+  font-family: inherit;
+}
+
+.SettingsGetFrm {
+  font-family: inherit;
+}
+
+.SettingsGetAllFrm {
+  font-family: inherit;
+}
+
+.SettingsCreateFrm {
+  font-family: inherit;
+}
+
+.SettingsUpdateFrm {
+  font-family: inherit;
+}
+
+.SettingsDeleteFrm {
+  font-family: inherit;
+}
+
+.SettingsGetMdl {
+  font-family: inherit;
+}
+
+.SettingsGetAllMdl {
+  font-family: inherit;
+}
+
+.SettingsCreateMdl {
+  font-family: inherit;
+}
+
+.SettingsUpdateMdl {
+  font-family: inherit;
+}
+
+.SettingsDeleteMdl {
+  font-family: inherit;
+}
+
+.SettingsGetMdlBtn {
+  font-family: inherit;
+}
+
+.SettingsGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.SettingsCreateMdlBtn {
+  font-family: inherit;
+}
+
+.SettingsUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.SettingsDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.StockCountGetBtn {
+  font-family: inherit;
+}
+
+.StockCountGetAllBtn {
+  font-family: inherit;
+}
+
+.StockCountCreateBtn {
+  font-family: inherit;
+}
+
+.StockCountUpdateBtn {
+  font-family: inherit;
+}
+
+.StockCountDeleteBtn {
+  font-family: inherit;
+}
+
+.StockCountGetFrm {
+  font-family: inherit;
+}
+
+.StockCountGetAllFrm {
+  font-family: inherit;
+}
+
+.StockCountCreateFrm {
+  font-family: inherit;
+}
+
+.StockCountUpdateFrm {
+  font-family: inherit;
+}
+
+.StockCountDeleteFrm {
+  font-family: inherit;
+}
+
+.StockCountGetMdl {
+  font-family: inherit;
+}
+
+.StockCountGetAllMdl {
+  font-family: inherit;
+}
+
+.StockCountCreateMdl {
+  font-family: inherit;
+}
+
+.StockCountUpdateMdl {
+  font-family: inherit;
+}
+
+.StockCountDeleteMdl {
+  font-family: inherit;
+}
+
+.StockCountGetMdlBtn {
+  font-family: inherit;
+}
+
+.StockCountGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.StockCountCreateMdlBtn {
+  font-family: inherit;
+}
+
+.StockCountUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.StockCountDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.StockMovementGetBtn {
+  font-family: inherit;
+}
+
+.StockMovementGetAllBtn {
+  font-family: inherit;
+}
+
+.StockMovementCreateBtn {
+  font-family: inherit;
+}
+
+.StockMovementUpdateBtn {
+  font-family: inherit;
+}
+
+.StockMovementDeleteBtn {
+  font-family: inherit;
+}
+
+.StockMovementGetFrm {
+  font-family: inherit;
+}
+
+.StockMovementGetAllFrm {
+  font-family: inherit;
+}
+
+.StockMovementCreateFrm {
+  font-family: inherit;
+}
+
+.StockMovementUpdateFrm {
+  font-family: inherit;
+}
+
+.StockMovementDeleteFrm {
+  font-family: inherit;
+}
+
+.StockMovementGetMdl {
+  font-family: inherit;
+}
+
+.StockMovementGetAllMdl {
+  font-family: inherit;
+}
+
+.StockMovementCreateMdl {
+  font-family: inherit;
+}
+
+.StockMovementUpdateMdl {
+  font-family: inherit;
+}
+
+.StockMovementDeleteMdl {
+  font-family: inherit;
+}
+
+.StockMovementGetMdlBtn {
+  font-family: inherit;
+}
+
+.StockMovementGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.StockMovementCreateMdlBtn {
+  font-family: inherit;
+}
+
+.StockMovementUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.StockMovementDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseGetBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseGetAllBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseCreateBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseUpdateBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseDeleteBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseGetFrm {
+  font-family: inherit;
+}
+
+.StockWarehouseGetAllFrm {
+  font-family: inherit;
+}
+
+.StockWarehouseCreateFrm {
+  font-family: inherit;
+}
+
+.StockWarehouseUpdateFrm {
+  font-family: inherit;
+}
+
+.StockWarehouseDeleteFrm {
+  font-family: inherit;
+}
+
+.StockWarehouseGetMdl {
+  font-family: inherit;
+}
+
+.StockWarehouseGetAllMdl {
+  font-family: inherit;
+}
+
+.StockWarehouseCreateMdl {
+  font-family: inherit;
+}
+
+.StockWarehouseUpdateMdl {
+  font-family: inherit;
+}
+
+.StockWarehouseDeleteMdl {
+  font-family: inherit;
+}
+
+.StockWarehouseGetMdlBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseCreateMdlBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.StockWarehouseDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.UserGetBtn {
+  font-family: inherit;
+}
+
+.UserGetAllBtn {
+  font-family: inherit;
+}
+
+.UserCreateBtn {
+  font-family: inherit;
+}
+
+.UserUpdateBtn {
+  font-family: inherit;
+}
+
+.UserDeleteBtn {
+  font-family: inherit;
+}
+
+.UserGetFrm {
+  font-family: inherit;
+}
+
+.UserGetAllFrm {
+  font-family: inherit;
+}
+
+.UserCreateFrm {
+  font-family: inherit;
+}
+
+.UserUpdateFrm {
+  font-family: inherit;
+}
+
+.UserDeleteFrm {
+  font-family: inherit;
+}
+
+.UserGetMdl {
+  font-family: inherit;
+}
+
+.UserGetAllMdl {
+  font-family: inherit;
+}
+
+.UserCreateMdl {
+  font-family: inherit;
+}
+
+.UserUpdateMdl {
+  font-family: inherit;
+}
+
+.UserDeleteMdl {
+  font-family: inherit;
+}
+
+.UserGetMdlBtn {
+  font-family: inherit;
+}
+
+.UserGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.UserCreateMdlBtn {
+  font-family: inherit;
+}
+
+.UserUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.UserDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogGetBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogGetAllBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogCreateBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogUpdateBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogDeleteBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogGetFrm {
+  font-family: inherit;
+}
+
+.UserActivityLogGetAllFrm {
+  font-family: inherit;
+}
+
+.UserActivityLogCreateFrm {
+  font-family: inherit;
+}
+
+.UserActivityLogUpdateFrm {
+  font-family: inherit;
+}
+
+.UserActivityLogDeleteFrm {
+  font-family: inherit;
+}
+
+.UserActivityLogGetMdl {
+  font-family: inherit;
+}
+
+.UserActivityLogGetAllMdl {
+  font-family: inherit;
+}
+
+.UserActivityLogCreateMdl {
+  font-family: inherit;
+}
+
+.UserActivityLogUpdateMdl {
+  font-family: inherit;
+}
+
+.UserActivityLogDeleteMdl {
+  font-family: inherit;
+}
+
+.UserActivityLogGetMdlBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogCreateMdlBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.UserActivityLogDeleteMdlBtn {
+  font-family: inherit;
+}
+
+.UserRoleGetBtn {
+  font-family: inherit;
+}
+
+.UserRoleGetAllBtn {
+  font-family: inherit;
+}
+
+.UserRoleCreateBtn {
+  font-family: inherit;
+}
+
+.UserRoleUpdateBtn {
+  font-family: inherit;
+}
+
+.UserRoleDeleteBtn {
+  font-family: inherit;
+}
+
+.UserRoleGetFrm {
+  font-family: inherit;
+}
+
+.UserRoleGetAllFrm {
+  font-family: inherit;
+}
+
+.UserRoleCreateFrm {
+  font-family: inherit;
+}
+
+.UserRoleUpdateFrm {
+  font-family: inherit;
+}
+
+.UserRoleDeleteFrm {
+  font-family: inherit;
+}
+
+.UserRoleGetMdl {
+  font-family: inherit;
+}
+
+.UserRoleGetAllMdl {
+  font-family: inherit;
+}
+
+.UserRoleCreateMdl {
+  font-family: inherit;
+}
+
+.UserRoleUpdateMdl {
+  font-family: inherit;
+}
+
+.UserRoleDeleteMdl {
+  font-family: inherit;
+}
+
+.UserRoleGetMdlBtn {
+  font-family: inherit;
+}
+
+.UserRoleGetAllMdlBtn {
+  font-family: inherit;
+}
+
+.UserRoleCreateMdlBtn {
+  font-family: inherit;
+}
+
+.UserRoleUpdateMdlBtn {
+  font-family: inherit;
+}
+
+.UserRoleDeleteMdlBtn {
+  font-family: inherit;
+}
+
+/*# sourceMappingURL=app.core.css.map */
